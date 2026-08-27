@@ -1,0 +1,113 @@
+Python is a high-level programming language known for its simple and readable syntax. It is widely used in web development, automation, data science, artificial intelligence, and machine learning.
+
+Python variables are used to store data. A variable can contain values such as numbers, strings, lists, or other types of data. For example, name = "Piyush" stores a string in the variable name.
+
+A Python list is a collection of items stored in a single variable. Lists are ordered and changeable. For example, fruits = ["apple", "banana", "mango"] creates a list containing three fruits.
+
+A Python loop is used to repeat a block of code. The two common loops are for loops and while loops. A for loop is useful when we want to repeat something for each item in a sequence.
+
+An if statement is used to make decisions in Python. It checks whether a condition is true or false. If the condition is true, the code inside the if block is executed.
+
+A Python function is a reusable block of code that performs a particular task. Functions can accept inputs called parameters and can return a result. Functions help make programs shorter and easier to organize.
+
+Artificial intelligence, or AI, is a field of computer science that focuses on creating machines that can perform tasks that normally require human intelligence. Examples include understanding language, recognizing images, and making predictions.
+
+Machine learning is a branch of artificial intelligence. Instead of being explicitly programmed for every task, a machine learning system learns patterns from data and uses those patterns to make predictions or decisions.
+
+Supervised learning is a type of machine learning where the model learns from labeled data. For example, a model can be trained using pictures labeled as cats and dogs so that it can learn to classify new pictures.
+
+Unsupervised learning works with data that does not have predefined labels. The algorithm tries to discover patterns or groups within the data. Clustering is a common example of unsupervised learning.
+
+Deep learning is a type of machine learning that uses artificial neural networks with multiple layers. Deep learning is commonly used in image recognition, speech recognition, natural language processing, and many other applications.
+
+Natural language processing, or NLP, is a field of artificial intelligence that helps computers understand and work with human language. Chatbots, translation systems, and text analysis tools are examples of NLP applications.
+
+A chatbot is a computer program designed to communicate with users through text or voice. Chatbots can answer questions, provide information, help customers, or perform simple tasks.
+
+Retrieval-Augmented Generation, commonly called RAG, is a technique that combines information retrieval with language generation. A RAG system first retrieves relevant information from a collection of documents and then uses that information to produce an answer.
+
+A RAG system usually has two important stages: retrieval and generation. During retrieval, the system finds relevant passages from documents. During generation, an AI language model can use those passages to create a useful answer.
+
+TF-IDF stands for Term Frequency-Inverse Document Frequency. It is a technique used to measure how important a word is in a document compared with a collection of documents. TF-IDF can be useful for information retrieval and text search.
+
+Term Frequency measures how often a particular word appears in a document. A word that appears many times in a document may have a higher term frequency.
+
+Inverse Document Frequency gives more importance to words that are uncommon across many documents. Common words appearing in almost every document usually receive lower importance.
+
+Cosine similarity is a mathematical method used to measure how similar two vectors are. In text retrieval, it can be used to compare a question with document passages and find which passage is most relevant.
+
+Scikit-learn is a popular Python library for machine learning. It provides tools for classification, regression, clustering, preprocessing, feature extraction, and other machine learning tasks.
+
+A database is an organized collection of data that can be stored and accessed efficiently. Databases are commonly used by websites, applications, companies, schools, and many other organizations.
+
+SQL stands for Structured Query Language. SQL is commonly used to communicate with relational databases. It can be used to retrieve, insert, update, and delete data.
+
+A relational database stores data in tables made up of rows and columns. Each table usually represents a particular type of information, such as students, products, or employees.
+
+An API, or Application Programming Interface, allows different software programs to communicate with each other. For example, an application can use an API to request information from another service.
+
+A web application is a software application that runs through a web browser. Examples include online shopping websites, email services, online learning platforms, and social media applications.
+
+HTML stands for HyperText Markup Language. HTML is used to structure content on web pages. It can define headings, paragraphs, links, images, lists, and other elements.
+
+CSS stands for Cascading Style Sheets. CSS is used to control the appearance and layout of web pages. It can change colors, fonts, spacing, sizes, and positioning.
+
+JavaScript is a programming language commonly used to make web pages interactive. It can respond to user actions, modify web page content, and communicate with web servers.
+
+Git is a version control system used to track changes in files and source code. It allows developers to save different versions of their projects and collaborate with other developers.
+
+GitHub is a platform used to store and collaborate on software projects. Developers can upload Git repositories, work together, review code, and manage project changes.
+
+Cybersecurity is the practice of protecting computers, networks, applications, and data from unauthorized access and other digital threats.
+
+A strong password should be difficult for other people to guess. Using long passwords and avoiding easily predictable personal information can improve account security. Using different passwords for different accounts is also a good security practice.
+
+Encryption is a process that transforms readable information into a protected form so that unauthorized people cannot easily understand it. The information can be converted back using the appropriate key or method.
+
+Cloud computing allows users and organizations to access computing resources such as storage, databases, and servers through the internet. Cloud services can reduce the need for maintaining physical infrastructure.
+
+Data science combines programming, statistics, mathematics, and domain knowledge to analyze data and extract useful information. Data scientists may use Python, machine learning, visualization, and databases.
+
+Data visualization is the process of representing data using charts, graphs, maps, or other visual formats. Visualization can make patterns and trends easier to understand.
+
+A neural network is a machine learning model inspired by the way biological neurons are connected. Neural networks contain interconnected units that can learn patterns from training data.
+
+Computer vision is a field of artificial intelligence that enables computers to analyze and understand images and videos. Applications include object detection, image classification, and facial recognition.
+
+Robotics combines computer science, engineering, electronics, and artificial intelligence to create machines that can sense their environment and perform physical tasks.
+
+An operating system is system software that manages computer hardware and provides services for applications. Examples include Windows, Linux, macOS, Android, and iOS.
+
+RAM stands for Random Access Memory. RAM is temporary memory used by a computer to store data and programs that are currently being used. More available RAM can help a computer handle multiple tasks.
+
+A CPU, or Central Processing Unit, is one of the main components of a computer. It executes instructions and performs calculations required by programs.
+
+A GPU, or Graphics Processing Unit, is designed to perform many calculations efficiently in parallel. GPUs are important for graphics processing and are also widely used for machine learning workloads.
+
+An algorithm is a step-by-step procedure for solving a problem or completing a task. Algorithms are an important part of programming and computer science.
+
+Debugging is the process of finding and fixing errors in a computer program. Programmers often use error messages, testing, and debugging tools to identify problems.
+
+An error in a program can happen for many reasons. Syntax errors occur when code does not follow the rules of a programming language, while logical errors occur when the program runs but produces an incorrect result.
+
+Object-oriented programming is a programming approach based on objects and classes. Objects can contain data and functions that operate on that data. Python supports object-oriented programming.
+
+A class in Python is a blueprint for creating objects. A class can define attributes and methods that describe the data and behavior of its objects.
+
+Artificial intelligence can be used in education to provide personalized learning, automate certain tasks, analyze student performance, and create interactive learning tools.
+
+Artificial intelligence is also used in healthcare for tasks such as medical image analysis, research, prediction, and assisting healthcare professionals. AI tools are designed to support human decision-making rather than replace professional judgment.
+
+AI can be used in transportation for route planning, traffic prediction, driver assistance systems, and research into autonomous vehicles.
+
+Recommendation systems suggest items that may be interesting to users. They are used by many online services to recommend videos, songs, products, articles, or other content.
+
+Search engines help users find information on the internet. They generally analyze webpages and use algorithms to determine which results are most relevant to a user's search.
+
+A document retrieval system searches a collection of documents and returns information that is relevant to a user's query. Keyword search and vector-based search are two approaches to information retrieval.
+
+In a simple RAG project using TF-IDF, documents can be divided into passages. The user's question is converted into a TF-IDF vector and compared with the passage vectors using cosine similarity.
+
+The similarity score in a TF-IDF retrieval system represents how similar the question is to a passage based on their vector representations. A higher score generally means the passage has more similar important words.
+
+A mini Q&A bot can read information from a text file, divide the information into passages, convert the question and passages into TF-IDF vectors, calculate similarity scores, and return the passage with the highest score.
